@@ -46,3 +46,7 @@ $${\color{orange}“Sp/ \space \color{yellow}Spark/ \space \color{orange}Sparkly
 <p align="center">
   <img src="https://64.media.tumblr.com/5ba05064751281654ea5c74a64fecb47/7d0b2e811e2231bb-75/s1280x1920/fd8e3fc4e93015564310103e31df78e1e03ce6d6.pnj" />
 </p>
+<br>
+
+![](https://komarev.com/ghpvc/?username=Luminispark&label=Lumine&color=yellow)
+
