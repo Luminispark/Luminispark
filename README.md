@@ -20,9 +20,7 @@ $${\color{orange}“This \space \color{yellow}Isn't \space \color{orange}The \sp
   <img src="https://64.media.tumblr.com/635ecd27f601a45f53494e618f4248c1/842f94ac57e2ca3a-74/s640x960/80148ca87da1dff7b32b6f9ddbf6f1dbc388a933.pnj" />
 </p>
 
-<br>
-
-$${\color{yellow}Lumin}$$
+$${\color{yellow}Lumine}$$
 
 <p align="center">
   <img src="https://64.media.tumblr.com/ee2c838eabf172c02f23dc80bea9ff35/53da849ac24d24ac-b5/s75x75_c1/800d9701af0558b1fb85fbec604245146c0fb899.gifv" alt="animated" />
