@@ -49,11 +49,7 @@ $${\color{orange}“Sp/ \space \color{yellow}Spark/ \space \color{orange}Sparkly
 
 ![Screenshot_20241025_202436](https://github.com/user-attachments/assets/bca0a96f-d4da-4d47-99d0-7708a407ae18)
 
-https://github.com/user-attachments/assets/cfc47c8c-185b-44b8-a516-450e2b9fa7c9
-
-a-a-a-a-art?.. 😣😣🤭🤭🥺
-
-Ria and Maya btw.
+This rui looks like more akito:/
 
 
 
