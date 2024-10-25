@@ -47,7 +47,11 @@ $${\color{orange}“Sp/ \space \color{yellow}Spark/ \space \color{orange}Sparkly
 </p>
 <br>
 
-![Untitled31_20241025192226](https://github.com/user-attachments/assets/d0894e2e-bd03-45e0-847e-609e9a2f7073)
+
+https://github.com/user-attachments/assets/cfc47c8c-185b-44b8-a516-450e2b9fa7c9
+
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=Luminispark&label=Lumine&color=yellow)
