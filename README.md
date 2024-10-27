@@ -47,12 +47,5 @@ $${\color{orange}“Sp/ \space \color{yellow}Spark/ \space \color{orange}Sparkly
 </p>
 <br>
 
-![Screenshot_20241025_202436](https://github.com/user-attachments/assets/bca0a96f-d4da-4d47-99d0-7708a407ae18)
-
-This rui looks like more akito:/
-
-
-
-
 ![](https://komarev.com/ghpvc/?username=Luminispark&label=Lumine&color=yellow)
 
